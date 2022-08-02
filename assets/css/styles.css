@@ -10,3 +10,7 @@ body {
 .main {
   padding: 2em;
 }
+
+.headshot {
+  border-radius: 50%;
+}
