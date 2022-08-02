@@ -2,7 +2,7 @@
 
 I'm a web developer based in Toronto, ON.
 
-* Right now, I'm wrapping up [The Odin Project](https://theodinproject.com), just finished a Facebook clone build with Rails.
+* Right now, I'm wrapping up [The Odin Project](https://theodinproject.com)'s Rails course, just finished a Facebook clone build with Rails.
 * Next on my list is learning React.
 
 Aside from web development, my other hobbies include analog photography, music and video games.
