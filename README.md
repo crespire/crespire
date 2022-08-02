@@ -1,4 +1,4 @@
-# ![head](/assets/images/IMG_20220604_183333.jpg){: .headshot} Hi, I'm Simmon Li!
+# Hi, I'm Simmon Li!
 
 I'm a (web) developer based in Toronto, ON. Nice to meet you!
 
