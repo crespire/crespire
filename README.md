@@ -16,7 +16,7 @@ Here are a few projects that I've completed while working through The Odin Proje
   * Live Application: [Railsbook](https://railsbook.crespire.dev)
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
 * A from-scratch Ruby Chess program for 2 players played in the command line.
-  * Live application [hosted on replit](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md))
+  * Live application [hosted on replit](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md)
   * Repository: [Github](https://github.com/crespire/ruby_chess)
 
 ## Technologies
