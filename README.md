@@ -4,7 +4,7 @@ I'm a (web) developer based in Toronto, ON. Nice to meet you!
 
 ## Current Happenings
 * Right now, I'm wrapping up [The Odin Project](https://theodinproject.com), and working through the Javascript course:
-  * `async` / `await` and promises are something I haven't had a lot of exposure to yet.
+  * Currently taming Jest
   * React is a major section of content that I am looking to complete.
 * Next on my list is learning LUA, as it's always fascinated me.
 
