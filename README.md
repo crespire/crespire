@@ -11,7 +11,7 @@ Aside from web development, my other hobbies include [analog photography](https:
 
 ## Past Projects
 Here are a few projects that I've completed while working through The Odin Project.
-* A Facebook clone built with Rails 7 that leverages hotwired to achieve a smooth UX experience.
+* A Facebook clone built with Rails 7 and hotwire to achieve a smooth UX experience.
   * Live Application: [Railsbook](https://railsbook.crespire.dev)
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
 * A from-scratch Ruby Chess program for 2 players played in the command line.
