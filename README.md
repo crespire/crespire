@@ -4,9 +4,8 @@ I'm a (web) developer based in Toronto, ON. Nice to meet you!
 
 ## Current Happenings
 * Right now, I'm wrapping up [The Odin Project](https://theodinproject.com), and working through the Javascript course:
-  * Currently wrapping up a vanilla JS Battleship boardgame project.
-  * Next up is React!
-* Longer term goal is learning LUA, as it's always fascinated me.
+  * Currently finishing Odin's React section
+* Next, I'd like to learn LUA, as it's always fascinated me.
 
 Aside from web development, my other hobbies include [analog photography](https://simmon.li), music and video games.
 
