@@ -34,7 +34,7 @@ _Ruby on Rails, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_
 
 ### Chess
 _Ruby, RSpec, git_  
-**Live:** [https://replit.com/@crespire/rubychess](https://replit.com/@crespire/rubychess)  
+**Live:** [https://replit.com/@crespire/rubychess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md)  
 **Repository:** [https://github.com/crespire/ruby_chess](https://github.com/crespire/ruby_chess)
 * Implements Chess for 2 players via command line interface in Ruby
 * Designed and implemented from broadly scoped requirements
