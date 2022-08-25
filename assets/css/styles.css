@@ -9,8 +9,12 @@ body {
   padding: 2em;
 }
 
-h1 {
+h2 {
   border-bottom: 1px solid black;
+}
+
+p {
+  margin: 0;
 }
 
 h3 {

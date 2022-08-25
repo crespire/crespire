@@ -9,7 +9,7 @@ title: Simmon Li's Resume
 * [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=github&logoColor=azure&color=181717)](https://github.com/crespire)
 * [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/)
 
-I'm a self taught Ruby on Rails taught web developer looking to make an impact as a junior in your organization. I've learned a lot on my own, but I know I have so much more to learn. I've used what I have learned on my own to build projects that I hope show off my skills. I would love to have the opportunity to discuss what I can bring to the table, so please get in touch with me!
+> I'm a self taught Ruby on Rails taught web developer looking to make an impact as a junior in your organization. I've learned a lot on my own, but I know I have so much more to learn. I've used what I have learned on my own to build projects that I hope show off my skills. I would love to have the opportunity to discuss what I can bring to the table, so please get in touch with me!
 
 ## Skills
 * **Languages:** Ruby, Javascript (ES6/ES7), Python
@@ -21,7 +21,6 @@ I'm a self taught Ruby on Rails taught web developer looking to make an impact a
 ## Personal Projects
 ### Railsbook
 _Ruby on Rails, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_  
-
 **Live:** [https://railsbook.crespire.dev](https://raislbook.crespire.dev/)  
 **Repository:** [https://github.com/crespire/rails_railsbook](https://github.com/crespire/rails_railsbook/)
 * Implements core Facebook friend and content experience with Rails 7
