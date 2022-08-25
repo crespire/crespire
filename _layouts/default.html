@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    {% if page.title.include?('Hi') %}
+    {% if page.name == 'README.md' %}
       <title>About Simmon Li</title>
-    {% elsif page.title.include?('Resume') %}
+    {% elsif page.name == 'resume.md' %}
       <title>Simmon Li's Resume</title>
     {% endif %}
     <link rel="stylesheet" href="assets/css/styles.css">
