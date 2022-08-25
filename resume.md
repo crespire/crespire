@@ -25,7 +25,7 @@ title: Simmon Li's Resume
 ## Personal Projects
 ### Railsbook
 _Ruby on Rails, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_  
-**Live:** [https://railsbook.crespire.dev](https://raislbook.crespire.dev/)  
+**Live:** [https://railsbook.crespire.dev](https://railsbook.crespire.dev/)  
 **Repository:** [https://github.com/crespire/rails_railsbook](https://github.com/crespire/rails_railsbook/)
 * Implements core Facebook friend and content experience with Rails 7
 * Automated RSpec/Capybara test suite with ~83% coverage
