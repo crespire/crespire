@@ -12,3 +12,7 @@ body {
 h1 {
   border-bottom: 1px solid black;
 }
+
+h3 {
+  margin: 0;
+}
