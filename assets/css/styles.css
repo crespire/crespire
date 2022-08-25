@@ -8,3 +8,7 @@ body {
 .main {
   padding: 2em;
 }
+
+h1 {
+  border-bottom: 1px solid black;
+}
