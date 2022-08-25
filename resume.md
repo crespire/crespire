@@ -12,11 +12,11 @@ title: Simmon Li's Resume
 I'm a self taught Ruby on Rails taught web developer looking to make an impact as a junior in your organization. I've learned a lot on my own, but I know I have so much more to learn. I've used what I have learned on my own to build projects that I hope show off my skills. I would love to have the opportunity to discuss what I can bring to the table, so please get in touch with me!
 
 ## Skills
-* Languages: Ruby, Javascript (ES6/ES7), Python
-* Frameworks: Ruby on Rails 6/7, Hotwire Stimulus & Turbo, node.js, React, Sass CSS, Tailwind
-* Automated Testing: RSpec, Jest
-* Cloud Services: Github, Google Cloud Platform, AWS, Heroku, Sendgrid
-* Tools: git, VScode, Linux, postgreSQL, rbenv, ruby bundler, npm, webpack
+* **Languages:** Ruby, Javascript (ES6/ES7), Python
+* **Frameworks:** Ruby on Rails 6/7, Hotwire Stimulus & Turbo, node.js, React, Sass CSS, Tailwind
+* **Automated Testing:** RSpec, Jest
+* **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid
+* **Tools:** git, VScode, Linux, postgreSQL, rbenv, ruby bundler, npm, webpack
 
 ## Personal Projects
 ### Railsbook
@@ -45,7 +45,6 @@ _Private repository, available upon request._
 * Implements a command line application that either  parses CSV, or hits the Clockify API to get data and organizes information into reports in xlsx or pdf format
 * Designed and built in Ruby utilizing third party libraries for output generation
 * Built to automate reporting, saving time
-
 
 ### Battleship
 _Javascript, Jest, webpack, npm, git, Github Pages_  
