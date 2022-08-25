@@ -21,6 +21,7 @@ I'm a self taught Ruby on Rails taught web developer looking to make an impact a
 ## Personal Projects
 ### Railsbook
 _Ruby on Rails, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_
+
 **Live:** [https://railsbook.crespire.dev](https://raislbook.crespire.dev/)
 **Repository:** [https://github.com/crespire/rails_railsbook](https://github.com/crespire/rails_railsbook/)
 * Implements core Facebook friend and content experience with Rails 7
@@ -30,6 +31,7 @@ _Ruby on Rails, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_
 
 ### Chess
 _Ruby, RSpec, git_
+
 **Live:** [https://replit.com/@crespire/rubychess](https://replit.com/@crespire/rubychess)
 **Repository:** [https://github.com/crespire/ruby_chess](https://github.com/crespire/ruby_chess)
 * Implements Chess for 2 players via command line interface in Ruby
@@ -40,6 +42,7 @@ _Ruby, RSpec, git_
 
 ### Custom Timesheet Automation
 _Ruby, APIs, git_
+
 _Private repository, available upon request._
 * Implements a command line application that either  parses CSV, or hits the Clockify API to get data and organizes information into reports in xlsx or pdf format
 * Designed and built in Ruby utilizing third party libraries for output generation
@@ -48,6 +51,7 @@ _Private repository, available upon request._
 
 ### Battleship
 _Javascript, Jest, webpack, npm, git, Github Pages_
+
 **Live:** [https://crespire.github.io/js-battleship/](https://crespire.github.io/js-battleship/)
 **Repository:** [https://github.com/crespire/js-battleship](https://github.com/crespire/js-battleship)
 * Implements a simple Battleship game on the front end in Javascript ES7
