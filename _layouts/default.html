@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title | default: site.title }}</title>
+    {% if page.title.include?('Hi') %}
+      <title>{{ site.title }}</title>
+    {% else %}
+      <title>{{ page.title }}</title>
+    {% endif %}
     <link rel="stylesheet" href="assets/css/styles.css">
   </head>
   <body>
