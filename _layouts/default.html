@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="assets/css/styles.css">
   </head>
   <body>
