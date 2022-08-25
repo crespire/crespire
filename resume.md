@@ -3,10 +3,7 @@ title: Simmon Li's Resume
 ---
 
 # Simmon Li
-### Resume
-
----
-
+## Resume
 * [li.simmon@gmail.com](mailto:li.simmon@gmail.com)
 * Located in Toronto, ON, Canada
 * [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=github&logoColor=azure&color=181717)](https://github.com/crespire)
