@@ -1,17 +1,11 @@
 body {
-  width: 100vw;
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: Tahoma, sans-serif;
-  overflow: scroll;
 }
 
 .main {
   padding: 2em;
-}
-
-.headshot {
-  border-radius: 50%;
+  overflow: scroll;
 }
