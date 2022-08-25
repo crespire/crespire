@@ -58,23 +58,23 @@ _Javascript, Jest, webpack, npm, git, Github Pages_
 
 ## Education
 ### Full Stack Ruby on Rails
-_The Odin Project_
+_The Odin Project_  
 Sept 2021 - present
 * Covered concepts and practical implementations of data structures, algorithms, object oriented programming, test driven development, databases, RESTful APIs and web application development
 
 ### Honours Bachelor of Arts with High Distinction
-_University of Toronto_
+_University of Toronto_  
 2011 - 2014
 * Specialization in Peace, Conflict & Justice with a minor in Ethics, Society & Law
 
 ### Bachelor of Music in Performance
-_University of Toronto_
+_University of Toronto_  
 2006 - 2010
 * Specialization in Vocal Jazz
 
 ## Professional Experience
 ### Office & Operations Manager
-_Designstor_
+_Designstor_  
 Feb 2017 - present | Toronto
 * Accounts Payable/Receivable
 * Taxes & Finance
@@ -82,7 +82,7 @@ Feb 2017 - present | Toronto
 * Business Operations & Administrative Support
 
 ### Trademark Sales Manager
-_Witmart_
+_Witmart_  
 Jul 2016 - Jan 2017 | Toronto
 * Managed a sales team of 4
 * Responsible for on-boarding and performance
@@ -90,7 +90,7 @@ Jul 2016 - Jan 2017 | Toronto
 * Regular training and coaching responsibilities
 
 ### Office Manager
-_Podium Consulting_
+_Podium Consulting_  
 Nov 2104 - Jun 2016 | Toronto
 * Daily operations management for office of 3
 * Accounts Payable/Receivable
