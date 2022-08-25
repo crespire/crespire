@@ -1,6 +1,9 @@
+---
+title: About Simmon Li
+---
 # Hi, I'm Simmon Li!
 
-I'm a (web) developer based in Toronto, ON. Nice to meet you!
+I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? You can find it here!](/resume.md)
 
 ## Current Happenings
 * Right now, I'm wrapping up [The Odin Project](https://theodinproject.com), and working through the Javascript course:
