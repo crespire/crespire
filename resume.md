@@ -4,6 +4,9 @@ title: Simmon Li's Resume
 
 # Simmon Li
 ### Resume
+
+---
+
 * [li.simmon@gmail.com](mailto:li.simmon@gmail.com)
 * Located in Toronto, ON, Canada
 * [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=github&logoColor=azure&color=181717)](https://github.com/crespire)
@@ -11,12 +14,16 @@ title: Simmon Li's Resume
 
 > I'm a self taught Ruby on Rails taught web developer looking to make an impact as a junior in your organization. I've learned a lot on my own, but I know I have so much more to learn. I've used what I have learned on my own to build projects that I hope show off my skills. I would love to have the opportunity to discuss what I can bring to the table, so please get in touch with me!
 
+---
+
 ## Skills
 * **Languages:** Ruby, Javascript (ES6/ES7), Python
 * **Frameworks:** Ruby on Rails 6/7, Hotwire Stimulus & Turbo, node.js, React, Sass CSS, Tailwind
 * **Automated Testing:** RSpec, Jest
 * **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid
 * **Tools:** git, VScode, Linux, postgreSQL, rbenv, ruby bundler, npm, webpack
+
+---
 
 ## Personal Projects
 ### Railsbook
@@ -54,6 +61,8 @@ _Javascript, Jest, webpack, npm, git, Github Pages_
 * Automated Jest test suite with ~95% coverage
 * Built using npm and webpack toolchain
 
+---
+
 ## Education
 ### Full Stack Ruby on Rails
 _The Odin Project_  
@@ -69,6 +78,8 @@ _University of Toronto_
 _University of Toronto_  
 2006 - 2010
 * Specialization in Vocal Jazz
+
+---
 
 ## Professional Experience
 ### Office & Operations Manager
