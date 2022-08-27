@@ -50,6 +50,14 @@ _Private repository, available upon request._
 * Gets data via CSV import/parse or API request
 * Created and built utilizing third party libraries for output generation
 
+### JSTask
+_Javascript, ReactJS, webpack, npm, git, Github Pages_  
+**Live:** [https://crespire.github.io/js-task-app/](https://crespire.github.io/js-task-app/)  
+**Repository:** [https://github.com/crespire/js-task-app](https://github.com/crespire/js-task-app)
+* Implements a simple task list in ReactJS utilizing state and prop drilling to facilitate functionality.
+* Primarily uses class components in order to facilitate an understanding for how to handle legacy React before the introduction of functional components
+* 
+
 ### Battleship
 _Javascript, Jest, webpack, npm, git, Github Pages_  
 **Live:** [https://crespire.github.io/js-battleship/](https://crespire.github.io/js-battleship/)  
