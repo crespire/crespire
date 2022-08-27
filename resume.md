@@ -40,7 +40,7 @@ _Ruby, RSpec, git_
 * Implements Chess for 2 players via command line interface in Ruby
 * Planned and implemented from broadly scoped requirements
 * Automated RSpec test suite with ~96% coverage
-* Completed without utilizing any third party Chess libraries
+* Program does not utilize any third party Chess libraries
 * Compatible with FEN serialization for both loading and saving
 
 ### Custom Timesheet Automation
