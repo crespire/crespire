@@ -25,12 +25,12 @@ title: Simmon Li's Resume
 
 ## Personal Projects
 ### Railsbook
-_Ruby on Rails, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_  
+_Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_  
 **Live:** [https://railsbook.crespire.dev](https://railsbook.crespire.dev/)  
 **Repository:** [https://github.com/crespire/rails_railsbook](https://github.com/crespire/rails_railsbook/)
 * Implements core Facebook friend and content experience with Rails 7
 * Automated RSpec/Capybara test suite with ~83% coverage
-* Implemented without reliance on domain specific gems except leveraging devise for authentication.
+* Completed and deployed without reliance on domain specific gems
 * Leverages BaaS providers Heroku, Sendgrid and AWS S3 for live deployment
 
 ### Chess
@@ -38,26 +38,25 @@ _Ruby, RSpec, git_
 **Live:** [https://replit.com/@crespire/rubychess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md)  
 **Repository:** [https://github.com/crespire/ruby_chess](https://github.com/crespire/ruby_chess)
 * Implements Chess for 2 players via command line interface in Ruby
-* Designed and implemented from broadly scoped requirements
+* Planned and implemented from broadly scoped requirements
 * Automated RSpec test suite with ~96% coverage
-* Built without utilizing any third-party libraries
+* Completed without utilizing any third party Chess libraries
 * Compatible with FEN serialization for both loading and saving
 
 ### Custom Timesheet Automation
 _Ruby, APIs, git_  
 _Private repository, available upon request._
-* Implements a command line application that either  parses CSV, or hits the Clockify API to get data and organizes information into reports in xlsx or pdf format
-* Designed and built in Ruby utilizing third party libraries for output generation
-* Built to automate reporting, saving time
+* Implements a command line application that ingests provided data and generates reporting
+* Gets data via CSV import/parse or API request
+* Created and built utilizing third party libraries for output generation
 
 ### Battleship
 _Javascript, Jest, webpack, npm, git, Github Pages_  
 **Live:** [https://crespire.github.io/js-battleship/](https://crespire.github.io/js-battleship/)  
 **Repository:** [https://github.com/crespire/js-battleship](https://github.com/crespire/js-battleship)
-* Implements a simple Battleship game on the front end in Javascript ES7
+* Implements a simple Battleship game on the front end in Javascript
 * Designed to utilize factory functions to build domain objects
 * Automated Jest test suite with ~95% coverage
-* Built using npm and webpack toolchain
 
 ---
 
