@@ -51,9 +51,9 @@ _Private repository, available upon request._
 * Created and built utilizing third party libraries for output generation
 
 ### Memory Card Game
-_Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_
-**Live:** [https://crespire.github.io/js-memory-cards/](https://crespire.github.io/js-memory-cards/)
-**Repository:** [https://github.com/crespire/js-memory-cards](https://github.com/crespire/js-memory-cards)
+_Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_  
+**Live:** [https://crespire.github.io/js-memory-cards/](https://crespire.github.io/js-memory-cards/)  
+**Repository:** [https://github.com/crespire/js-memory-cards](https://github.com/crespire/js-memory-cards)  
 * Implements a simple memory card game in ReactJS function components using hooks
 * Utilizes [https://www.deckofcardsapi.com/](https://www.deckofcardsapi.com/) to draw a set of 12 random cards
 * Keeps track of current and best scores using React hooks
