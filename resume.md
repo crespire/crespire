@@ -50,14 +50,6 @@ _Private repository, available upon request._
 * Gets data via CSV import/parse or API request
 * Created and built utilizing third party libraries for output generation
 
-### CV Builder
-_Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_  
-**Live:** [https://crespire.github.io/js-cv-builder/](https://crespire.github.io/js-cv-builder/)  
-**Repository:** [https://github.com/crespire/js-cv-builder](https://github.com/crespire/js-cv-builder)
-* Implements a simple CV builder in ReactJS class components.
-* Allows adding, editing and deleting of nested list items in their respective sections.
-* Utilizes TailwindCSS for styling components
-
 ### Memory Card Game
 _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_
 **Live:** [https://crespire.github.io/js-memory-cards/](https://crespire.github.io/js-memory-cards/)
@@ -74,6 +66,14 @@ _Javascript, Jest, webpack, npm, git, Github Pages_
 * Implements a simple Battleship game on the front end in Javascript
 * Designed to utilize factory functions to build domain objects
 * Automated Jest test suite with ~95% coverage
+
+### CV Builder
+_Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_  
+**Live:** [https://crespire.github.io/js-cv-builder/](https://crespire.github.io/js-cv-builder/)  
+**Repository:** [https://github.com/crespire/js-cv-builder](https://github.com/crespire/js-cv-builder)
+* Implements a simple CV builder in ReactJS class components.
+* Allows adding, editing and deleting of nested list items in their respective sections.
+* Utilizes TailwindCSS for styling components
 
 ---
 
