@@ -18,7 +18,7 @@ Here are a few projects that I've completed while working through The Odin Proje
   * Live Application: [Cozy Creature Canteen](https://cozy-creature-canteen.vercel.app/) on Vercel
   * Repository: [Github](https://github.com/crespire/js-shopping-cart)
 * A from-scratch Ruby Chess program for 2 players played in the command line.
-  * Live application [Chess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md) on replit
+  * Live application: [Chess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md) on replit
   * Repository: [Github](https://github.com/crespire/ruby_chess)
 
 ## Technologies
