@@ -18,7 +18,7 @@ title: Simmon Li's Resume
 * **Languages:** Ruby, Javascript (ES6/ES7), Python
 * **Frameworks:** Ruby on Rails 6/7, Hotwire Stimulus & Turbo, node.js, React, Sass CSS, Tailwind
 * **Automated Testing:** RSpec, Jest
-* **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid
+* **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid, vercel
 * **Tools:** git, VScode, Linux, postgreSQL, rbenv, ruby bundler, npm, webpack
 
 ---
@@ -49,6 +49,16 @@ _Private repository, available upon request._
 * Implements a command line application that ingests provided data and generates reporting
 * Gets data via CSV import/parse or API request
 * Created and built utilizing third party libraries for output generation
+
+### Cozy Creature Canteen
+_React, react router, Tailwind, webpack, npm, git, vercel_  
+**Live:** [https://cozy-creature-canteen.vercel.app/](https://cozy-creature-canteen.vercel.app/)  
+**Repository:** [https://github.com/crespire/js-shopping-cart](https://github.com/crespire/js-shopping-cart)  
+* Implements a frontend e-Commerce application in ReactJS
+* Deploys react router for simple two page navigation
+* Tracks a user's cart items and checkout information
+* Employs a multi-step checkout flow (note, the application does not validate any data nor does it send the data anywhere)
+* TailwindCSS styling
 
 ### Memory Card Game
 _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_  
