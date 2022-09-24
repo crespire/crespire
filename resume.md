@@ -54,7 +54,7 @@ _Private repository, available upon request._
 _React, react router, Tailwind, webpack, npm, git, vercel_  
 **Live:** [https://cozy-creature-canteen.vercel.app/](https://cozy-creature-canteen.vercel.app/)  
 **Repository:** [https://github.com/crespire/js-shopping-cart](https://github.com/crespire/js-shopping-cart)  
-* Implements a frontend e-Commerce application in ReactJS
+* Implements a frontend e-Commerce store front application in ReactJS
 * Deploys react router for simple two page navigation
 * Tracks a user's cart items and checkout information
 * Employs a multi-step checkout flow (note, the application does not validate any data nor does it send the data anywhere)

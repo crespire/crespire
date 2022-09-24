@@ -14,7 +14,7 @@ Here are a few projects that I've completed while working through The Odin Proje
 * A Facebook clone built with Rails 7 and hotwire to achieve a smooth UX experience.
   * Live Application: [Railsbook](https://railsbook.crespire.dev) on Heroku
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
-* Cozy Creature Canteen, a simple storefront build with React.
+* Cozy Creature Canteen, a simple storefront built with React.
   * Live Application: [Cozy Creature Canteen](https://cozy-creature-canteen.vercel.app/) on Vercel
   * Repository: [Github](https://github.com/crespire/js-shopping-cart)
 * A from-scratch Ruby Chess program for 2 players played in the command line.
