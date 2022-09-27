@@ -28,10 +28,20 @@ title: Simmon Li's Resume
 _Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_  
 **Live:** [https://railsbook.crespire.dev](https://railsbook.crespire.dev/)  
 **Repository:** [https://github.com/crespire/rails_railsbook](https://github.com/crespire/rails_railsbook/)
-* Implements core Facebook friend and content experience with Rails 7
+* Implements core Facebook friend and content experience
 * Automated RSpec/Capybara test suite with ~83% coverage
-* Completed and deployed without reliance on domain specific gems
+* Styled via custom BEM system utilizing Sass
 * Leverages BaaS providers Heroku, Sendgrid and AWS S3 for live deployment
+
+### Cozy Creature Canteen
+_React, react router, Tailwind, webpack, npm, git, vercel_  
+**Live:** [https://cozy-creature-canteen.vercel.app/](https://cozy-creature-canteen.vercel.app/)  
+**Repository:** [https://github.com/crespire/js-shopping-cart](https://github.com/crespire/js-shopping-cart)  
+* Implements a frontend e-Commerce store front application in ReactJS
+* Deploys react router for simple two page navigation
+* Tracks a user's cart items and checkout information
+* Employs a multi-step checkout flow with custom hook for input validation
+* Styled with Tailwind
 
 ### Chess
 _Ruby, RSpec, git_  
@@ -43,31 +53,14 @@ _Ruby, RSpec, git_
 * Program does not utilize any third party Chess libraries
 * Compatible with FEN serialization for both loading and saving
 
-### Custom Timesheet Automation
-_Ruby, APIs, git_  
-_Private repository, available upon request._
-* Implements a command line application that ingests provided data and generates reporting
-* Gets data via CSV import/parse or API request
-* Created and built utilizing third party libraries for output generation
-
-### Cozy Creature Canteen
-_React, react router, Tailwind, webpack, npm, git, vercel_  
-**Live:** [https://cozy-creature-canteen.vercel.app/](https://cozy-creature-canteen.vercel.app/)  
-**Repository:** [https://github.com/crespire/js-shopping-cart](https://github.com/crespire/js-shopping-cart)  
-* Implements a frontend e-Commerce store front application in ReactJS
-* Deploys react router for simple two page navigation
-* Tracks a user's cart items and checkout information
-* Employs a multi-step checkout flow with custom hook for input validation
-* TailwindCSS styling
-
 ### Memory Card Game
 _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_  
 **Live:** [https://crespire.github.io/js-memory-cards/](https://crespire.github.io/js-memory-cards/)  
 **Repository:** [https://github.com/crespire/js-memory-cards](https://github.com/crespire/js-memory-cards)  
 * Implements a simple memory card game in ReactJS function components using hooks
-* Utilizes [https://www.deckofcardsapi.com/](https://www.deckofcardsapi.com/) to draw a set of 12 random cards
+* Leverages [https://www.deckofcardsapi.com/](https://www.deckofcardsapi.com/) to draw a set of 12 random cards
 * Keeps track of current and best scores using React hooks
-* Simple TailwindCSS styling
+* Utilizes Tailwind styling
 
 ### Battleship
 _Javascript, Jest, webpack, npm, git, Github Pages_  
@@ -84,6 +77,13 @@ _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_
 * Implements a simple CV builder in ReactJS class components.
 * Allows adding, editing and deleting of nested list items in their respective sections.
 * Utilizes TailwindCSS for styling components
+
+### Custom Timesheet Automation
+_Ruby, APIs, git_  
+_Private repository, available upon request._
+* Implements a command line application that ingests provided data and generates reporting
+* Gets data via CSV import/parse or API request
+* Created and built utilizing third party libraries for output generation
 
 ---
 
