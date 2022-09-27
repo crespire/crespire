@@ -51,7 +51,7 @@ _Ruby, RSpec, git_
 * Planned and implemented from broadly scoped requirements
 * Automated RSpec test suite with ~96% coverage
 * Program does not utilize any third party Chess libraries
-* Compatible with FEN serialization for both loading and saving
+* Wide compatibility with other Chess software via FEN (de)serialization
 
 ### Memory Card Game
 _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_  
