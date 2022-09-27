@@ -90,7 +90,7 @@ _Private repository, available upon request._
 ## Education
 ### Full Stack Ruby on Rails
 _The Odin Project_  
-Sept 2021 - present
+Sept 2021 - Ongoing
 * Covered concepts and practical implementations of data structures, algorithms, object oriented programming, test driven development, databases, RESTful APIs and web application development
 
 ### Honours Bachelor of Arts with High Distinction
@@ -108,7 +108,7 @@ _University of Toronto_
 ## Professional Experience
 ### Office & Operations Manager
 _Designstor_  
-Feb 2017 - present | Toronto
+Feb 2017 - Current | Toronto
 * Accounts Payable/Receivable
 * Taxes & Finance
 * Payroll, Benefits & HR Administration for office of 11
