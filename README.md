@@ -25,7 +25,7 @@ Languages
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D) ![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 Frameworks  
-![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000) ![Stimulus](https://img.shields.io/badge/-Stimulus-000?style=for-the-badge&logo=stimulus)  ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass) ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
+[![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](https://rubyonrails.org/) [![Hotwire/Stimulus](https://img.shields.io/badge/-Hotwire\/Stimulus-000?style=for-the-badge&logo=stimulus)](https://github.com/hotwired)  ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass) ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)
 
 Testing  
 ![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rpsec) ![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=C21325)
