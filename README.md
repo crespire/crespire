@@ -34,7 +34,7 @@ Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git) ![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)
 
 Backend Services  
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku&logoColor=430098) ![Heroku](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql) ![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku) ![Heroku](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)
 
 Environment  
 ![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) ![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)
