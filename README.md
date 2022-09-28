@@ -3,7 +3,7 @@
 I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.net/resume)
 
 ## Current Happenings
-* &#9889; Wrapping up [The Odin Project](https://theodinproject.com), and working through the ReactJS.
+* &#9889; Wrapping up [The Odin Project](https://theodinproject.com), and working through React.
 * &#9197;&#65039; Learn how to use LUA
 
 Aside from web development, my other hobbies include [analog photography](https://simmon.li), music and video games.
@@ -16,7 +16,7 @@ Here are a few projects that I've completed while working through The Odin Proje
 * &#128054; Cozy Creature Canteen, an online store front with cart built with React.
   * Live Application: [Cozy Creature Canteen](https://cozy-creature-canteen.vercel.app/) on Vercel
   * Repository: [Github](https://github.com/crespire/js-shopping-cart)
-* &#9823;&#65039; Chess, a 2 player, command line implementation built with Ruby.
+* &#9823;&#65039; Chess, a 2 player command line implementation built with Ruby.
   * Live application: [Chess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md) on replit
   * Repository: [Github](https://github.com/crespire/ruby_chess)
 
