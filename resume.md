@@ -88,11 +88,6 @@ _Private repository, available upon request._
 ---
 
 ## Education
-### Full Stack Ruby on Rails
-_The Odin Project_  
-Sept 2021 - Ongoing
-* Covered concepts and practical implementations of data structures, algorithms, object oriented programming, test driven development, databases, RESTful APIs and web application development
-
 ### Honours Bachelor of Arts with High Distinction
 _University of Toronto_  
 2011 - 2014
@@ -110,9 +105,19 @@ _University of Toronto_
 _Designstor_  
 Feb 2017 - Current | Toronto
 * Accounts Payable/Receivable
+  * Maintain and update a number of reports including A/R aging, trailing revenue & cashflow.
+  * Improved A/R receivables timeline from ~60 days to ~30 days on average
+  * Automated billing status reporting to improve billing turnaround time
+  * Set up an automated time sheet parsing to reduce billing reconciliation times
 * Taxes & Finance
-* Payroll, Benefits & HR Administration for office of 11
+  * Prepare and action periodic tax obligations including source deductions & sales tax remittances
+* Payroll, Benefits & HR Administration for office of 10
+  * Administer and process payroll for staff on a monthly basis
+  * Track, manage and process overtime, vacation, sick days and other PTO/leave
+  * Manage employee documents and information
+  * Administer group benefits and manage changes to staff coverage
 * Business Operations & Administrative Support
+  * Manage and coordinate with property management and building operators on building systems and maintenance
 
 ### Trademark Sales Manager
 _Witmart_  
