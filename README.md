@@ -3,9 +3,8 @@
 I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.net/resume)
 
 ## Current Happenings
-* Right now, I'm wrapping up [The Odin Project](https://theodinproject.com), and working through the Javascript course:
-  * Currently finishing Odin's React section
-* Next, I'd like to learn LUA as it's always fascinated me.
+* &#9889; Wrapping up [The Odin Project](https://theodinproject.com), and working through the ReactJS.
+* &#9197;&#65039; Learn how to use LUA
 
 Aside from web development, my other hobbies include [analog photography](https://simmon.li), music and video games.
 
