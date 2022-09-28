@@ -37,7 +37,7 @@ Backend Services
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat-square&logo=heroku&logoColor=azure&color=forestgreen) ![Heroku](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=azure&color=forestgreen) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=azure&color=forestgreen) ![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=flat-square&logo=amazon-s3&logoColor=azure&color=forestgreen)
 
 Environment  
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=azure&color=forestgreen) ![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logo=ubuntu)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=azure&color=forestgreen) ![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)
 
 ## Get In Touch
 [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=github&logoColor=azure&color=181717)](https://github.com/crespire) [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/) [![Email](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=gmail&logoColor=azure&color=EA4335)](mailto:hello@crespire.dev)
