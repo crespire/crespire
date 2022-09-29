@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&display=swap');
+
 body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: Tahoma, sans-serif;
+  font-family: 'Barlow', sans-serif;
 }
 
 .main {
