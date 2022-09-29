@@ -10,13 +10,13 @@ Aside from web development, my other hobbies include [analog photography](https:
 
 ## Past Projects
 Here are a few projects that I've completed while working through The Odin Project.
-* &#128216; Railsbook, a Facebook clone built with Rails 7 and hotwire.
+* &#128216; **Railsbook**, a Facebook clone built with Rails 7 and hotwire.
   * Live Application: [Railsbook](https://railsbook.crespire.dev) on Heroku
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
-* &#128054; Cozy Creature Canteen, an online store front with cart built with React.
+* &#128054; **Cozy Creature Canteen**, an online store front with cart built with React.
   * Live Application: [Cozy Creature Canteen](https://cozy-creature-canteen.vercel.app/) on Vercel
   * Repository: [Github](https://github.com/crespire/js-shopping-cart)
-* &#9823;&#65039; Chess, a 2 player command line implementation built with Ruby.
+* &#9823;&#65039; **Chess**, a 2 player command line implementation built with Ruby.
   * Live application: [Chess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md) on replit
   * Repository: [Github](https://github.com/crespire/ruby_chess)
 
