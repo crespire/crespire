@@ -10,7 +10,7 @@ title: Simmon Li's Resume
 * [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/)
 
 > Self-taught and tenacious, I'm an operations professional looking for an opportunity to jump into a career in software development. Fluent in HTML, CSS, Javascript, Ruby, Rails and React and open to learning new things! You can [check out my about me page](https://crespire.net) to see what I'm currently up to.  
-> I'd love to chat about what I can bring to the table, so [get in touch with me](https://crespire.net/#get-in-touch).
+> I'd love to chat about what I can bring to the table, so [get in touch with me](https://github.com/crespire#get-in-touch).
 
 ---
 
