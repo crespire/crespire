@@ -6,7 +6,7 @@ I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a res
 * &#9889; Wrapping up [The Odin Project](https://theodinproject.com), and working through React.
 * &#9197;&#65039; Learn how to use LUA
 
-Aside from web development, my other hobbies include [analog photography](https://simmon.li), music and video games.
+Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), [&#128247; analog photography](https://simmon.li/) and &#127926; music.
 
 ## Past Projects
 Here are a few projects that I've completed while working through The Odin Project.
