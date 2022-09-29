@@ -8,6 +8,7 @@ body {
 .main {
   padding: 2em;
   max-width: 48rem;
+  border: 3px double #c6c6c6;
 }
 
 h2 {
