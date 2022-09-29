@@ -15,8 +15,8 @@ title: Simmon Li's Resume
 ---
 
 ## Skills
-* **Languages:** Ruby, Javascript (ES6/ES7), Python
-* **Frameworks:** Ruby on Rails 6/7, Hotwire Stimulus & Turbo, node.js, React, Sass CSS, Tailwind
+* **Languages:** Ruby, Javascript (ES6/ES7), Python, HTML5, CSS3
+* **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
 * **Automated Testing:** RSpec, Jest
 * **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid, vercel
 * **Tools:** git, VScode, Linux, postgreSQL, rbenv, ruby bundler, npm, webpack
