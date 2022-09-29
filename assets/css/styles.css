@@ -3,6 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: Tahoma, sans-serif;
+  max-width: 1536px;
 }
 
 .main {
