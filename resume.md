@@ -41,7 +41,7 @@ _React, react router, Tailwind, webpack, npm, git, vercel_
 * Implements a frontend e-Commerce store front application in ReactJS
 * Deploys react router for simple two page navigation
 * Tracks a user's cart items and checkout information
-* Employs a multi-step checkout flow with custom hook for input validation
+* Employs a multi-step checkout flow with custom form hook for input validation
 * Styled with Tailwind
 
 ### Chess
