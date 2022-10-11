@@ -16,9 +16,9 @@ title: Simmon Li's Resume
 ---
 
 ## Skills
-* **Languages:** Ruby, Javascript (ES6/ES7), Python, HTML5, CSS3
+* **Languages:** Ruby, Javascript, Python, HTML5, CSS3
 * **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
-* **Automated Testing:** RSpec, Jest
+* **Automated Testing:** RSpec, Jest, React Testing Library
 * **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid, vercel
 * **Tools:** git, VScode, Linux, postgreSQL, rbenv, ruby bundler, npm, webpack
 
@@ -43,6 +43,7 @@ _React, react router, Tailwind, webpack, npm, git, vercel_
 * Tracks a user's cart items and checkout information
 * Employs a multi-step checkout flow with custom form hook for input validation
 * Styled with Tailwind
+* Deployed via vercel
 
 ### Chess
 _Ruby, RSpec, git_  
@@ -106,9 +107,9 @@ _University of Toronto_
 _Designstor_  
 Feb 2017 - Current | Toronto
 * Accounts Payable/Receivable
-  * Maintain and update a number of reports including A/R aging, trailing revenue & cashflow.
-  * Improved A/R receivables timeline from ~60 days to ~30 days on average
-  * Automated billing status reporting to improve billing turnaround time
+  * Automated various financial reports to improve visibility for management
+  * Improved A/R receivables timeline from ~60 days to ~30 days via follow-up automation
+  * Centralized billing and project management information to reduce billing reconciliation times
   * Set up an automated time sheet parsing to reduce billing reconciliation times
 * Taxes & Finance
   * Prepare and action periodic tax obligations including source deductions & sales tax remittances
