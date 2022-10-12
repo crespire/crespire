@@ -24,3 +24,7 @@ p {
 h3 {
   margin: 0;
 }
+
+img {
+  max-width: 40rem;
+}
