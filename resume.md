@@ -34,6 +34,17 @@ _Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_
 * Styled via custom BEM system utilizing Sass
 * Leverages BaaS providers Heroku, Sendgrid and AWS S3 for live deployment
 
+### Where's Waldo?
+_React, react router, Rails, Tailwind, webpack, npm, git, vercel, render_  
+**Live:** [https://crespire-waldo.vercel.app/](https://crespire-waldo.vercel.app/)
+**Repository:** [https://github.com/crespire/waldo](https://github.com/crespire/waldo)  
+* Implements a fullstack clicker game with React and Rails API
+* Uses react router for simple client routing
+* Requests data from a Rails API to power a frontend canvas experience
+* Utilizes custom hook for form validation
+* Styled with Tailwind
+* Deployed via vercel and render
+
 ### Cozy Creature Canteen
 _React, react router, Tailwind, webpack, npm, git, vercel_  
 **Live:** [https://cozy-creature-canteen.vercel.app/](https://cozy-creature-canteen.vercel.app/)  

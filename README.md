@@ -3,7 +3,7 @@
 I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.net/resume)
 
 ## Current Happenings
-* &#9889; Wrapping up [The Odin Project](https://theodinproject.com), and working through React.
+* &#9889; Planning a fullstack Quiplash clone... stay tuned!
 * &#9197;&#65039; Learn how to use LUA
 
 Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), [&#128247; analog photography](https://simmon.li/) and &#127926; music.
@@ -13,6 +13,9 @@ Here are a few projects that I've completed while working through The Odin Proje
 * &#128216; **Railsbook**, a Facebook clone built with Rails 7 and hotwire.
   * Live Application: [Railsbook](https://railsbook.crespire.dev) on Heroku
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
+* &#128270; **Where's Waldo?**, a fullstack implementation of the classic children's books.
+  * Live Application: [Where's Waldo?](https://crespire-waldo.vercel.app/)
+  * Repository: [Github](https://github.com/crespire/waldo)
 * &#128054; **Cozy Creature Canteen**, an online store front with cart built with React.
   * Live Application: [Cozy Creature Canteen](https://cozy-creature-canteen.vercel.app/) on Vercel
   * Repository: [Github](https://github.com/crespire/js-shopping-cart)
@@ -34,7 +37,7 @@ Version Control
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](#) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](#)
 
 Backend Services  
-[![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)](#) [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)](#)
+[![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)](#) [![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)](#) [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)](#)
 
 Environment  
 [![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](#) [![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)](#)
