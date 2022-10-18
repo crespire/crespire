@@ -13,7 +13,7 @@ Here are a few projects that I've completed while working through The Odin Proje
 * &#128216; **Railsbook**, a Facebook clone built with Rails 7 and hotwire.
   * Live Application: [Railsbook](https://railsbook.crespire.dev) on Heroku
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
-* &#128270; **Where's Waldo?**, a fullstack implementation of the classic children's books.
+* &#128270; **Where's Waldo?** a fullstack implementation of the classic children's books.
   * Live Application: [Where's Waldo?](https://crespire-waldo.vercel.app/)
   * Repository: [Github](https://github.com/crespire/waldo)
 * &#128054; **Cozy Creature Canteen**, an online store front with cart built with React.
