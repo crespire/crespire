@@ -36,14 +36,13 @@ _Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_
 
 ### Where's Waldo?
 _React, react router, Rails, Tailwind, webpack, npm, git, vercel, render_  
-**Live:** [https://crespire-waldo.vercel.app/](https://crespire-waldo.vercel.app/)
+**Live:** [https://crespire-waldo.vercel.app/](https://crespire-waldo.vercel.app/)  
 **Repository:** [https://github.com/crespire/waldo](https://github.com/crespire/waldo)  
-* Implements a fullstack clicker game with React and Rails API
+* Implements a fullstack clicker game with a React client and custom Rails API
 * Uses react router for simple client routing
-* Requests data from a Rails API to power a frontend canvas experience
-* Utilizes custom hook for form validation
+* Powered by a data-backed canvas for real time input feedback
 * Styled with Tailwind
-* Deployed via vercel and render
+* Monorepo deployed via vercel and render
 
 ### Cozy Creature Canteen
 _React, react router, Tailwind, webpack, npm, git, vercel_  
@@ -135,7 +134,7 @@ Feb 2017 - Current | Toronto
 ### Trademark Sales Manager
 _Witmart_  
 Jul 2016 - Jan 2017 | Toronto
-* Managed a sales team of 4
+* With 4 direct reports, improved sales performance in a fast-paced start-up environment
 * Responsible for on-boarding and performance
 * Improved business processes in conjunction with senior managers
 * Regular training and coaching responsibilities
