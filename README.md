@@ -1,6 +1,6 @@
 # &#128075; Hi, I'm Simmon Li!
 
-I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.net/resume)
+I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume)
 
 ## Current Happenings
 * &#9889; Planning a fullstack Quiplash clone... stay tuned!
