@@ -36,7 +36,7 @@ _Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_
 
 ### Where's Waldo?
 _React, react router, Rails, Tailwind, webpack, npm, git, vercel, render_  
-**Live:** [https://crespire-waldo.vercel.app/](https://crespire-waldo.vercel.app/)  
+**Live:** [https://waldo.crespire.dev/](https://waldo.crespire.dev/)  
 **Repository:** [https://github.com/crespire/waldo](https://github.com/crespire/waldo)  
 * Implements a fullstack clicker game with a React client and custom Rails API
 * Uses react router for simple client routing
@@ -46,7 +46,7 @@ _React, react router, Rails, Tailwind, webpack, npm, git, vercel, render_
 
 ### Cozy Creature Canteen
 _React, react router, Tailwind, webpack, npm, git, vercel_  
-**Live:** [https://cozy-creature-canteen.vercel.app/](https://cozy-creature-canteen.vercel.app/)  
+**Live:** [https://pet-shop.crespire.dev/](https://pet-shop.crespire.dev/)  
 **Repository:** [https://github.com/crespire/js-shopping-cart](https://github.com/crespire/js-shopping-cart)  
 * Implements a frontend e-Commerce store front application in ReactJS
 * Deploys react router for simple two page navigation
