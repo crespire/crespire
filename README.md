@@ -2,6 +2,8 @@
 
 I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume)
 
+You can also visit my [portfolio page](https://crespire.dev/).
+
 ## Current Happenings
 * &#9889; Planning a fullstack Quiplash clone... stay tuned!
 * &#9197;&#65039; Learn how to use LUA
@@ -14,10 +16,10 @@ Here are a few projects that I've completed while working through The Odin Proje
   * Live Application: [Railsbook](https://railsbook.crespire.dev) on Heroku
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
 * &#128270; **Where's Waldo?** a fullstack implementation of the classic children's books.
-  * Live Application: [Where's Waldo?](https://crespire-waldo.vercel.app/)
+  * Live Application: [Where's Waldo?](https://waldo.crespire.dev/)
   * Repository: [Github](https://github.com/crespire/waldo)
 * &#128054; **Cozy Creature Canteen**, an online store front with cart built with React.
-  * Live Application: [Cozy Creature Canteen](https://cozy-creature-canteen.vercel.app/) on Vercel
+  * Live Application: [Cozy Creature Canteen](https://pet-shop.crespire.dev/) on Vercel
   * Repository: [Github](https://github.com/crespire/js-shopping-cart)
 * &#9823;&#65039; **Chess**, a 2 player command line implementation built with Ruby.
   * Live application: [Chess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md) on replit
