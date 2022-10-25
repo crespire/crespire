@@ -16,7 +16,7 @@ title: Simmon Li's Resume
 ---
 
 ## Skills
-* **Languages:** Ruby, Javascript, Python, HTML5, CSS3
+* **Languages:** Ruby, Javascript, Typescript, Python, HTML5, CSS3
 * **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
 * **Automated Testing:** RSpec, Jest, React Testing Library
 * **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid, vercel
@@ -41,8 +41,16 @@ _React, react router, Rails, Tailwind, webpack, npm, git, vercel, render_
 * Implements a fullstack clicker game with a React client and custom Rails API
 * Uses react router for simple client routing
 * Powered by a data-backed canvas for real time input feedback
-* Styled with Tailwind
+* Styled with Tailwind, including custom animations
 * Monorepo deployed via vercel and render
+
+### Portfolio v1
+_React, Typescript, Tailwind, webpack, npm, git, vercel_  
+**Live:** [https://crespire.dev/](https://crespire.dev/)  
+**Repository:** [https://github.com/crespire/portfolio_v1](https://github.com/crespire/portfolio_v1)  
+* Implements a front end portfolio application with Typescript React
+* Utilizes advanced Tailwind techniques for interactive experience
+* Live via vercel
 
 ### Cozy Creature Canteen
 _React, react router, Tailwind, webpack, npm, git, vercel_  
