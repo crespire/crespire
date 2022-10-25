@@ -47,7 +47,7 @@ _React, react router, Rails, Tailwind, webpack, npm, git, vercel, render_
 ### Portfolio v1
 _React, Typescript, Tailwind, webpack, npm, git, vercel_  
 **Live:** [https://crespire.dev/](https://crespire.dev/)  
-**Repository:** [https://github.com/crespire/portfolio_v1](https://github.com/crespire/portfolio_v1)  
+**Repository:** [https://github.com/crespire/portfolio-v1](https://github.com/crespire/portfolio-v1)  
 * Implements a front end portfolio application with Typescript React
 * Utilizes advanced Tailwind techniques for interactive experience
 * Live via vercel
