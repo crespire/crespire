@@ -5,8 +5,8 @@ I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a res
 You can also visit my [portfolio page](https://crespire.dev/).
 
 ## Current Happenings
-* &#9889; Planning a fullstack Quiplash clone... stay tuned!
-* &#9197;&#65039; Learn how to use LUA
+* &#9889; Adding Golang to my toolbox, one small project at a time...
+* &#9197;&#65039; Quiplash clone with Go backend? Maybe...
 
 Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), [&#128247; analog photography](https://simmon.li/) and &#127926; music.
 
