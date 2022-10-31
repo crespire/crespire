@@ -149,7 +149,7 @@ Jul 2016 - Jan 2017 | Toronto
 
 ### Office Manager
 _Podium Consulting_  
-Nov 2104 - Jun 2016 | Toronto
+Nov 2014 - Jun 2016 | Toronto
 * Daily operations management for office of 3
 * Accounts Payable/Receivable
 * Social media campaign management and execution
