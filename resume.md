@@ -19,30 +19,30 @@ title: Simmon Li's Resume
 * **Languages:** Ruby, Javascript, Typescript, Python, HTML5, CSS3, SQL, MongoQL
 * **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
 * **Automated Testing:** RSpec, Jest, React Testing Library
-* **Cloud Services:** Github, Google Cloud Platform, AWS, Heroku, Sendgrid, vercel
+* **Cloud Services:** Github, Google Cloud Platform, DigitalOcean, AWS, Heroku, Sendgrid, vercel
 * **Tools:** git, VScode, Linux, postgreSQL, mongoDB, NoSQL, rbenv, ruby bundler, npm, webpack
 
 ---
 
 ## Personal Projects
 ### Railsbook
-_Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, Heroku, AWS S3_  
+_Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, dokku, docker, AWS S3_  
 **Live:** [https://railsbook.crespire.dev](https://railsbook.crespire.dev/)  
 **Repository:** [https://github.com/crespire/rails_railsbook](https://github.com/crespire/rails_railsbook/)
 * Implements core Facebook friend and content experience
 * Automated RSpec/Capybara test suite with ~83% coverage
 * Styled via custom BEM system utilizing Sass
-* Leverages BaaS providers Heroku, Sendgrid and AWS S3 for live deployment
+* Leverages dokku/docker on DigitalOcean for deployment. Hooks up to Sendgrid and AWS S3 for supporting services
 
 ### Where's Waldo?
-_React, react router, Rails, Tailwind, webpack, npm, git, vercel, render_  
+_React, react router, Rails, Tailwind, webpack, npm, git, vercel, dokku, docker_  
 **Live:** [https://waldo.crespire.dev/](https://waldo.crespire.dev/)  
 **Repository:** [https://github.com/crespire/waldo](https://github.com/crespire/waldo)  
 * Implements a fullstack clicker game with a React client and custom Rails API
 * Uses react router for simple client routing
 * Powered by a data-backed canvas for real time input feedback
 * Styled with Tailwind, including custom animations
-* Monorepo deployed via vercel and render
+* Monorepo deployed via vercel and dokku/docker
 
 ### Portfolio v1
 _React, Typescript, Tailwind, webpack, npm, git, vercel_  
