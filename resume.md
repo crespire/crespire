@@ -16,7 +16,7 @@ title: Simmon Li's Resume
 ---
 
 ## Skills
-* **Languages:** Ruby, Javascript, Typescript, Python, HTML5, CSS3, SQL, MongoQL
+* **Languages:** Ruby, Javascript, Typescript, Python, Golang, HTML5, CSS3, SQL, MongoQL
 * **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
 * **Automated Testing:** RSpec, Jest, React Testing Library
 * **Cloud Services:** Github, Google Cloud Platform, DigitalOcean, AWS, Heroku, Sendgrid, vercel
