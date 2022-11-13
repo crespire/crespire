@@ -44,6 +44,15 @@ _React, react router, Rails, Tailwind, webpack, npm, git, vercel, dokku, docker_
 * Styled with Tailwind, including custom animations
 * Monorepo deployed via vercel and dokku/docker
 
+### Firebase Authorization Flow Sample
+_React, Typescript, MaterialUI, React Router, Firebase Auth & Storage, webpack, npm, git, vercel_  
+**Live:** [https://auth-sample.crespire.dev](https://auth-sample.crespire.dev/)  
+**Repository:** [https://github.com/crespire/digistaff_auth](https://github.com/crespire/digistaff_auth/tree/refactor/authcontext)  
+* Implements a front end Typescript React application utilizing MaterialUI components
+* Leverages Firebase for authentication and storage of user avatars
+* Simple React router set up
+* Relies on a custom authorization provider component as well as custom hook to provide authorization
+
 ### Portfolio v1
 _React, Typescript, Tailwind, webpack, npm, git, vercel_  
 **Live:** [https://crespire.dev/](https://crespire.dev/)  
