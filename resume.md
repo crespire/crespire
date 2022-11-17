@@ -16,7 +16,7 @@ title: Simmon Li's Resume
 ---
 
 ## Skills
-* **Languages:** Ruby, Javascript, Typescript, HTML5, CSS3, SQL, MongoQL
+* **Languages:** Ruby, Javascript, Typescript, HTML5, CSS3, SQL, MongoQL, Python
 * **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
 * **Automated Testing:** RSpec, Jest, React Testing Library
 * **Cloud Services:** Github, Google Cloud Platform, Firebase, DigitalOcean, AWS, Heroku, Sendgrid, vercel
@@ -107,9 +107,9 @@ _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_
 * Allows adding, editing and deleting of nested list items in their respective sections.
 * Utilizes TailwindCSS for styling components
 
-### Custom Timesheet Automation
+### Custom Report Automation Tool
 _Ruby, APIs, git_  
-_Private repository, available upon request._
+**Repository:** [https://github.com/crespire/report_automation](https://github.com/crespire/report_automation)
 * Implements a command line application that ingests provided data and generates reporting
 * Gets data via CSV import/parse or API request
 * Created and built utilizing third party libraries for output generation
