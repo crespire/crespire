@@ -111,8 +111,8 @@ _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_
 _Ruby, APIs, git_  
 **Repository:** [https://github.com/crespire/report_automation](https://github.com/crespire/report_automation)
 * Implements a command line application that ingests provided data and generates reporting
-* Gets data via CSV import/parse or API request
-* Created and built utilizing third party libraries for output generation
+* Utilizes API and JSON data
+* Relies on third party libraries for output generation
 
 ---
 
