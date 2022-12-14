@@ -13,10 +13,10 @@ Outside of development, I am very interested in my [&#128021; dog](https://www.i
 ## Past Projects
 Here are a few projects that I've completed while working through The Odin Project.
 * &#128216; **Railsbook**, a Facebook clone built with Rails 7 and hotwire.
-  * Live Application: [Railsbook](https://railsbook.crespire.dev) on Heroku
+  * Live Application: [Railsbook](https://railsbook.crespire.dev) on dokku
   * Repository: [Github](https://github.com/crespire/rails_railsbook)
 * &#128270; **Where's Waldo?** a fullstack implementation of the classic children's books.
-  * Live Application: [Where's Waldo?](https://waldo.crespire.dev/)
+  * Live Application: [Where's Waldo?](https://waldo.crespire.dev/) powered by Vercel and dokku
   * Repository: [Github](https://github.com/crespire/waldo)
 * &#128054; **Cozy Creature Canteen**, an online store front with cart built with React.
   * Live Application: [Cozy Creature Canteen](https://pet-shop.crespire.dev/) on Vercel
@@ -30,10 +30,10 @@ Languages
 [![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#) [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript)](#) [![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
 
 Frameworks  
-[![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](#) [![Hotwire](https://img.shields.io/badge/-Hotwire-000?style=for-the-badge&logo=stimulus)](https://github.com/hotwired)  [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)](#) [![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)](#) [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)](#)
+[![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](#) [![Hotwire](https://img.shields.io/badge/-Hotwire-000?style=for-the-badge&logo=stimulus)](https://github.com/hotwired)  [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)](#) [![React Router](https://img.shields.io/badge/-React-Router-000?style=for-the-badge&logo=react-router)](#) [![React Query](https://img.shields.io/badge/-React-Query-000?style=for-the-badge&logo=react-query)](#) [![Create React App](https://img.shields.io/badge/-Create-React-App-000?style=for-the-badge&logo=create-react-app)](#) [![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)](#) [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)](#) [![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?style=for-the-badge&logo=mui)](#)
 
 Testing  
-[![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rpsec)](#) [![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=C21325)](#)
+[![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rpsec)](#) [![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=C21325)](#) [![React Testing Library](https://img.shields.io/badge/-React-Testing-Library-000?style=for-the-badge&logo=testing-library)](#) 
 
 Version Control  
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](#) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](#) [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab)](#)
