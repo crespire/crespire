@@ -25,6 +25,13 @@ Here are a few projects that I've completed while working through The Odin Proje
   * Live application: [Chess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md) on replit
   * Repository: [Github](https://github.com/crespire/ruby_chess)
 
+<!--
+Badge format:
+[![Name of Tech](https://img.shields.io/badge/-NAME_OF_TECH-000?style=for-the-badge&logo=name-of-tech)](#)
+
+Text uses underscores for spaces, logo slug uses hyphens.
+-->
+
 ## Technologies
 Languages  
 [![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#) [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript)](#) [![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
