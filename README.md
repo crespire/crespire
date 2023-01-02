@@ -10,26 +10,16 @@ You can also visit my [portfolio page](https://crespire.dev/).
 
 Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), [&#128247; analog photography](https://simmon.li/) and &#127926; music.
 
-## Past Projects
-Here are a few projects that I've completed while working through The Odin Project.
-* &#128216; **Railsbook**, a Facebook clone built with Rails 7 and hotwire.
-  * Live Application: [Railsbook](https://railsbook.crespire.dev) on dokku
-  * Repository: [Github](https://github.com/crespire/rails_railsbook)
-* &#128270; **Where's Waldo?** a fullstack implementation of the classic children's books.
-  * Live Application: [Where's Waldo?](https://waldo.crespire.dev/) powered by Vercel and dokku
-  * Repository: [Github](https://github.com/crespire/waldo)
-* &#128054; **Cozy Creature Canteen**, an online store front with cart built with React.
-  * Live Application: [Cozy Creature Canteen](https://pet-shop.crespire.dev/) on Vercel
-  * Repository: [Github](https://github.com/crespire/js-shopping-cart)
-* &#9823;&#65039; **Chess**, a 2 player command line implementation built with Ruby.
-  * Live application: [Chess](https://replit.com/@crespire/rubychess?lite=1&outputonly=1#README.md) on replit
-  * Repository: [Github](https://github.com/crespire/ruby_chess)
+## Highlight Project
+I'm proud of &#128216; **Railsbook** built with Rails 7 and hotwire with minimal reliance on libraries. This app offers the core Facebook experience with friends, posts, comments (both with pictures!), user search and likes. In particular, I am very proud of the testing suite built using RSpec with Capybara.
+* Live Application: [Railsbook](https://railsbook.crespire.dev) powered by dokku on DigitalOcean
+* Repository: [Github](https://github.com/crespire/rails_railsbook)
 
 <!--
 Badge format:
 [![Name of Tech](https://img.shields.io/badge/-NAME_OF_TECH-000?style=for-the-badge&logo=name-of-tech)](#)
 
-Text uses underscores for spaces, logo slug uses hyphens.
+For spaces, badge text uses underscores, while the logo slug uses hyphens.
 -->
 
 ## Technologies
@@ -54,7 +44,3 @@ Environment
 
 ## Get In Touch
 [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/crespire) [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/) [![Email](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=gmail&logoColor=azure&color=EA4335)](mailto:hello@crespire.dev)
-
-
-# Holopins
-[![@crespire's Holopin board](https://holopin.me/crespire)](https://holopin.io/@crespire)
