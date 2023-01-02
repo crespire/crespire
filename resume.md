@@ -107,12 +107,21 @@ _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_
 * Allows adding, editing and deleting of nested list items in their respective sections.
 * Utilizes TailwindCSS for styling components
 
-### Custom Report Automation Tool
+### CLI Custom Report Automation Tool
 _Ruby, APIs, git_  
 **Repository:** [https://github.com/crespire/report_automation](https://github.com/crespire/report_automation)
 * Implements a command line application that ingests provided data and generates reporting
 * Utilizes API and JSON data
 * Relies on third party libraries for output generation
+* Optional GUI powered by LibUI and Glimmer DSL for LibUI on Linux systems
+
+### Rails Report Builder
+_Ruby, Rails, Hotwire Stimulus, RESTful API, git, docker_  
+**Repository:** [https://github.com/crespire/report_generation](https://github.com/crespire/report_generation)
+* An extension of the CLI Custom Report Automation Tool, this moves the application to a Rails app for ease of use with a GUI.
+* Utilizes an external API to generate requested reports
+* Relies on custom fork of WickedPDF gem to ensure temp file cleanup
+* Dockerized application for easy deployment and portability with docker compose
 
 ---
 
