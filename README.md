@@ -1,8 +1,6 @@
 # &#128075; Hi, I'm Simmon Li!
 
-I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume)
-
-You can also visit my [portfolio page](https://crespire.dev/).
+I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume) You can also visit my [portfolio page](https://crespire.dev/).
 
 ## Current Happenings
 * &#9889; Writing a buy/sell sample platform with Rails/Typescript React frontend
