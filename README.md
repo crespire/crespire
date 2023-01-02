@@ -12,8 +12,8 @@ Outside of development, I am very interested in my [&#128021; dog](https://www.i
 
 ## Highlight Project
 I'm proud of &#128216; **Railsbook** built with Rails 7 and hotwire with minimal reliance on libraries. This app offers the core Facebook experience with friends, posts, comments (both with pictures!), user search and likes. In particular, I am very proud of the testing suite built using RSpec with Capybara.
-* Live Application: [Railsbook](https://railsbook.crespire.dev) powered by dokku on DigitalOcean
-* Repository: [Github](https://github.com/crespire/rails_railsbook)
+* [Railsbook](https://railsbook.crespire.dev), powered by dokku on DigitalOcean
+* [Repository on Github](https://github.com/crespire/rails_railsbook)
 
 <!--
 Badge format:
