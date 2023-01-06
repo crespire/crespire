@@ -20,9 +20,7 @@ I'd love to chat about what I can bring to the table, so [get in touch with me](
 * **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
 * **Automated Testing:** RSpec, Jest, React Testing Library
 * **Cloud Services:** Github, Google Cloud Platform, Firebase, DigitalOcean, AWS, Heroku, Sendgrid, vercel
-* **Tools:** git, VScode, Linux, Postman, postgreSQL, mongoDB, NoSQL, rbenv, ruby bundler, npm, webpack, dokku PaaS (docker)
-
----
+* **Tools:** git, VScode, Linux, Postman, postgreSQL, mongoDB, NoSQL, rbenv, ruby bundler, npm, webpack, docker, docker compose, dokku
 
 ## Personal Projects
 ### Railsbook
@@ -43,6 +41,15 @@ _React, react router, Rails, Tailwind, webpack, npm, git, vercel, dokku, docker_
 * Powered by a data-backed canvas for real time input feedback
 * Styled with Tailwind, including custom animations
 * Monorepo deployed via vercel and dokku/docker
+
+### Rails Report Builder
+_Ruby, Rails, Hotwire Stimulus, RESTful API, git, docker, docker compose_  
+**Live:** Preview available upon request.
+**Repository:** [https://github.com/crespire/report_generation](https://github.com/crespire/report_generation)
+* An extension of the CLI Custom Report Automation Tool, this moves the application to a Rails app for ease of use with a GUI.
+* Utilizes an external API to generate requested reports
+* Relies on custom fork of WickedPDF gem to ensure temp file cleanup
+* Containerized application for easy deployment and portability with docker compose
 
 ### Firebase Authorization Flow Sample
 _React, Typescript, MaterialUI, React Router, Firebase Auth & Storage, webpack, npm, git, vercel_  
@@ -114,14 +121,6 @@ _Ruby, APIs, git_
 * Utilizes API and JSON data
 * Relies on third party libraries for output generation
 * Optional GUI powered by LibUI and Glimmer DSL for LibUI on Linux systems
-
-### Rails Report Builder
-_Ruby, Rails, Hotwire Stimulus, RESTful API, git, docker_  
-**Repository:** [https://github.com/crespire/report_generation](https://github.com/crespire/report_generation)
-* An extension of the CLI Custom Report Automation Tool, this moves the application to a Rails app for ease of use with a GUI.
-* Utilizes an external API to generate requested reports
-* Relies on custom fork of WickedPDF gem to ensure temp file cleanup
-* Dockerized application for easy deployment and portability with docker compose
 
 ---
 
