@@ -91,7 +91,7 @@ _Ruby, RSpec, git_
 
 ### Memory Card Game
 _Javascript, ReactJS, Tailwind, webpack, npm, git, Github Pages_  
-**Live:** [https://crespire.github.io/js-memory-cards/](https://crespire.github.io/js-memory-cards/)  
+**Live:** [https://memory-cards.crespire.dev/](https://memory-cards.crespire.dev/)  
 **Repository:** [https://github.com/crespire/js-memory-cards](https://github.com/crespire/js-memory-cards)  
 * Implements a simple memory card game in ReactJS function components using hooks
 * Leverages [https://www.deckofcardsapi.com/](https://www.deckofcardsapi.com/) to draw a set of 12 random cards
