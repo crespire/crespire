@@ -53,7 +53,6 @@ _Ruby, Rails, Hotwire Stimulus, RESTful API, git, docker, docker compose_
 
 ### Firebase Authorization Flow Sample
 _React, Typescript, MaterialUI, React Router, Firebase Auth & Storage, webpack, npm, git, vercel_  
-**Live:** [https://auth-sample.crespire.dev](https://auth-sample.crespire.dev/)  
 **Repository:** [https://github.com/crespire/ts-auth-sample](https://github.com/crespire/ts-auth-sample)  
 * Implements a front end Typescript React application utilizing MaterialUI components
 * Leverages Firebase for authentication and storage of user avatars
