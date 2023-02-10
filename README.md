@@ -3,8 +3,9 @@
 I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume) You can also visit my [portfolio page](https://crespire.dev/).
 
 ## Current Happenings
-* &#9889; Writing a buy/sell sample platform with Rails/Typescript React frontend
-* &#9197;&#65039; Resume my Go learning...
+* Writing a buy/sell sample platform with Rails/Typescript React frontend. Currently fleshing out the design with Tailwind.
+* Up next, React Native by way of Expo
+* After that, I plan to get re-acquainted with Python
 
 Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), [&#128247; analog photography](https://simmon.li/) and &#127926; music.
 
