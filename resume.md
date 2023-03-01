@@ -4,7 +4,7 @@ title: Simmon Li's Resume
 
 # Simmon Li
 ## Resume
-* [li.simmon@gmail.com](mailto:li.simmon@gmail.com)
+* [hello@crespire.dev](mailto:hello@crespire.dev)
 * Located in Markham, Ontario, Canada
 * [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=github&logoColor=azure&color=181717)](https://github.com/crespire)
 * [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=flat-square&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/)
