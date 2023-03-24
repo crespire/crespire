@@ -1,7 +1,7 @@
 # &#128075; Hi, I'm Simmon Li!
 <sup>(pronounced Simon)</sup>
 
-I'm a (web) developer based in Toronto, ON. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume) You can also visit my [portfolio page](https://crespire.dev/).
+I'm a developer based in the GTA in Ontario, Canada. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume) You can also visit my [portfolio page](https://crespire.dev/).
 
 ## Current Happenings
 * Writing a simple React Native application to understand the tooling and process. Hello weatherapp revisited!
