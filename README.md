@@ -26,10 +26,10 @@ Version Control
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](#) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](#)  
 
 Backend Services  
-[![docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)](#) [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](#) [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MongoDB](https://shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](#) [![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)](#)
+[![docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MongoDB](https://shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](#) [![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)](#)
 
 Environment  
-[![nvim](https://img.shields.io/badge/-neovim-000?style=for-the-badge&logo=neovim)](#) [![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](#) [![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)](#)
+[![nvim](https://img.shields.io/badge/-neovim-000?style=for-the-badge&logo=neovim)](#) [![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)](#)
 
 ## Get In Touch
 [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/crespire) [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/) [![Email](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=gmail&logoColor=azure&color=EA4335)](mailto:hello@crespire.dev)
