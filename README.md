@@ -3,16 +3,7 @@
 
 I'm a developer based in the GTA in Ontario, Canada. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume) You can also visit my [portfolio page](https://crespire.dev/).
 
-## Current Happenings
-* Writing a simple React Native application to understand the tooling and process. Hello weatherapp revisited!
-* After that, more Go!
-
 Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), [&#128247; analog photography](https://simmon.li/) and &#127926; music.
-
-## Highlight Project
-I'm proud of &#128216; **Railsbook** built with Rails 7 and hotwire with minimal reliance on domain libraries. This app offers the core Facebook experience with friends, posts, comments (both with pictures!), user search and likes. In particular, I am very proud of the testing suite built using RSpec with Capybara.
-* [Railsbook](https://railsbook.crespire.dev), powered by dokku on DigitalOcean
-* [Repository on Github](https://github.com/crespire/rails_railsbook)
 
 <!--
 Badge format:
