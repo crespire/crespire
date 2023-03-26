@@ -32,6 +32,14 @@ _Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, dokku, docker, AWS S3_
 * Styled via custom BEM system utilizing Sass
 * Leverages dokku/docker on DigitalOcean for deployment. Hooks up to Sendgrid and AWS S3 for supporting services
 
+### Buysell by crespire
+_Ruby on Rails, React, Typescript, Tailwind, PostgreSQL, Rspec, cypress, git, docker, AWS S3, vercel_  
+**Live:** [https://buysell.crespire.dev/](https://buysell.crespire.dev/)  
+**Repository:** [https://github.com/crespire/buysell](https://github.com/crespire/buysell)  
+* Implements a full stack buy & sell application with React Typescript/Rails API
+* Custom hooks and providers on the React application centralize important application functions, including API access and data caching and user authentication
+* Styled using daisyUI built on Tailwind, with some custom components created for re-usability.
+
 ### Where's Waldo?
 _React, react router, Rails, Tailwind, webpack, npm, git, vercel, dokku, docker_  
 **Live:** [https://waldo.crespire.dev/](https://waldo.crespire.dev/)  
@@ -137,9 +145,14 @@ _University of Toronto_
 ---
 
 ## Professional Experience
+### Software Developer
+_Sierra Rails_  
+March 2023 - Current | Toronto, Remote
+* Research, design, write, test and manage software
+
 ### Office & Operations Manager
 _Designstor_  
-Feb 2017 - Current | Toronto
+Feb 2017 - March 2023 | Toronto
 * Accounts Payable/Receivable
   * Automated various financial reports to improve visibility for management
   * Improved A/R receivables timeline from ~60 days to ~30 days via follow-up automation
