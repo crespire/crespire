@@ -17,14 +17,13 @@ Languages
 [![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#) [![Javascript/Typescript](https://img.shields.io/badge/-JS%2FTS-000?style=for-the-badge&logo=typescript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
 
 Frameworks  
-[![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](#) [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)](#) [![React Router](https://img.shields.io/badge/-React_Router-000?style=for-the-badge&logo=react-router)](#) [![React Query](https://img.shields.io/badge/-React_Query-000?style=for-the-badge&logo=react-query)](#) [![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)](#) [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)](#) [![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)](#)
+[![Rails](https://img.shields.io/badge/-Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](#) [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)](#) [![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)](#) [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)](#)  
 
 Testing  
 [![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rpsec)](#) [![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest)](#) [![Cypress](https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=cypress)](#) [![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-000?style=for-the-badge&logo=testing-library)](#) 
 
 Version Control  
-[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](#) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](#) [![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab)](#)
-
+[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](#) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](#)  
 
 Backend Services  
 [![docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)](#) [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](#) [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MongoDB](https://shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](#) [![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)](#)
