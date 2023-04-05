@@ -5,6 +5,10 @@ body {
   align-items: center;
   justify-content: center;
   font-family: 'Barlow', sans-serif;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
 }
 
 .main {
