@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
 
-body {
+.main {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -8,10 +8,9 @@ body {
   height: 100%;
   width: 100%;
   overflow: scroll;
-  position: absolute;
 }
 
-.main {
+.main > div {
   padding: 2em;
   max-width: 48rem;
   border: 3px double #c6c6c6;
