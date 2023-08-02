@@ -15,14 +15,30 @@ I'd love to chat about what I can bring to the table, so [get in touch with me](
 
 ---
 
-## Skills
-* **Languages:** Ruby, Javascript, Typescript, HTML5, CSS3, SQL, MongoQL, Python
-* **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
-* **Automated Testing:** RSpec, Jest, React Testing Library
-* **Cloud Services:** Github, Google Cloud Platform, Firebase, DigitalOcean, AWS, Heroku, Sendgrid, vercel
-* **Tools:** git, VScode, Linux, Postman, postgreSQL, mongoDB, NoSQL, rbenv, ruby bundler, npm, webpack, docker, docker compose, dokku
+## Selected Projects
+### EZ Newswire
+_Ruby on Rails, PostgreSQL, ViewComponents, Hotwire, Devise, Bootstrap_  
+**Live:** [https://app.eznewswire.com/](https://app.eznewswire.com)  
+* Delivered numerous new features from user stories and Figma design mocks, working across the stack as needed
+* Implemented an organization/brand feature to manage multiple sets of press releases, benefiting agency users with multiple clients and/or brands
+* Created an image upload feature using Turbo/Stimulus, enabling users to upload and (re)order accompanying images with their press release without full page loads, improving customer conversions
+* Vendored an open source Javascript package to support image uploading with new required functionality, pending upstreaming
+* Executed architectural changes with the tech lead, significantly reducing error rates (approximately 60%)
+* Improved frontend reliability by switching from importmaps to esbuild-based Javascript packaging, further reducing failure rates due to data inconsistency and improving user experience
+* Developed and implemented a user onboarding experience, helping user retention and improving data reliability
+* Implemented, integrated, and tested a new checkout flow, supporting business goals to expand the publisher network and add additional payment processors, expanding reach
+* Enhanced the backend with more data models to capture additional checkout and payment data for analytics purposes
+* Crafted rake tasks and data migrations to ensure data integrity and consistency
+* Built a comprehensive MiniTest test suite, later converted to RSpec, achieving ~87% code coverage
 
-## Personal Projects
+### CASA Volunteer Tracking
+_Ruby on Rails, PostgreSQL, ViewComponents, jQuery, Devise, Pundit_  
+**Live:** [https://casavolunteertracking.org/](https://casavolunteertracking.org/)  
+
+* Implemented UI updates to leverage JQuery Datatables for management pages to make it easier to use
+* Reviewed and improved multi-tenant permissions using Pundit to ensure security between tenants
+* Encapsulated application jobs into unit-testable plain old Ruby objects and wrote tests, adding confidence in notifications
+
 ### Railsbook
 _Ruby on Rails, devise, Turbo/Stimulus, Sass CSS, RSpec, dokku, docker, AWS S3_  
 **Live:** [https://railsbook.crespire.dev](https://railsbook.crespire.dev/)  
@@ -132,12 +148,12 @@ _Ruby, APIs, git_
 ---
 
 ## Education
-### Honours Bachelor of Arts with High Distinction
+### Honours Bachelor of Arts with High Distinction (3.73/4.0 GPA)
 _University of Toronto_  
 2011 - 2014
 * Specialization in Peace, Conflict & Justice with a minor in Ethics, Society & Law
 
-### Bachelor of Music in Performance
+### Bachelor of Music in Performance (2.89/4.0 GPA)
 _University of Toronto_  
 2006 - 2010
 * Specialization in Vocal Jazz
@@ -147,8 +163,10 @@ _University of Toronto_
 ## Professional Experience
 ### Software Developer
 _Sierra Rails_  
-March 2023 - Current | Toronto, Remote
-* Research, design, write, test and manage software
+March 2023 - present | Toronto, Remote
+* Build new features using Ruby on Rails, ViewComponents, Hotwire, Bootstrap, SCSS, and Devise
+* Maintain development and production environments using VPS provders and container based systems
+* Create and manage automated test suites for features using MiniTest and RSpec
 
 ### Office & Operations Manager
 _Designstor_  
@@ -176,10 +194,23 @@ Jul 2016 - Jan 2017 | Toronto
 * Improved business processes in conjunction with senior managers
 * Regular training and coaching responsibilities
 
-### Office Manager
-_Podium Consulting_  
-Nov 2014 - Jun 2016 | Toronto
-* Daily operations management for office of 3
-* Accounts Payable/Receivable
-* Social media campaign management and execution
-* Research projects to support business development
+---
+
+## Volunteer Experience
+### Ruby for Good
+_Individual Contributor_  
+* Contributed various fixes and improvements to the CASA Volunteer Tracking application
+
+### The Odin Project
+_Individual Contributor_  
+* Contributed various curriculum updates, including new lessons on local development environment setup
+* Contributed web application and community tool bug fixes
+
+---
+
+## Skills
+* **Languages:** Ruby, Javascript, Typescript, HTML5, CSS3, SQL, MongoQL, Python
+* **Frameworks:** Ruby on Rails, Hotwire Stimulus & Turbo, node.js, React, React Router, Sass, Tailwind
+* **Automated Testing:** RSpec, Jest, React Testing Library
+* **Cloud Services:** Github, Google Cloud Platform, Firebase, DigitalOcean, AWS, Heroku, Sendgrid, vercel
+* **Tools:** git, VScode, Linux, Postman, postgreSQL, mongoDB, NoSQL, rbenv, ruby bundler, npm, webpack, docker, docker compose, dokku
