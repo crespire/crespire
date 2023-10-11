@@ -1,7 +1,7 @@
 # &#128075; Hi, I'm Simmon Li!
 <sup>(pronounced Simon)</sup>
 
-I'm a developer based in the GTA in Ontario, Canada. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.github.io/crespire/resume) You can also visit my [portfolio page](https://crespire.dev/).
+I'm a developer based in the GTA in Ontario, Canada. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.dev/resume) You can also visit my [portfolio page](https://crespire.dev/).
 
 Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), [&#128247; analog photography](https://simmon.li/) and &#127926; music.
 
