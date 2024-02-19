@@ -23,13 +23,13 @@ Testing
 [![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rpsec)](#) [![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest)](#) [![Cypress](https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=cypress)](#) [![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-000?style=for-the-badge&logo=testing-library)](#) 
 
 Version Control  
-[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](#) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](#)  
+[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](#) 
 
-Backend Services  
-[![docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MongoDB](https://shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](#) [![AWS S3](https://img.shields.io/badge/-AWS_S3-000?style=for-the-badge&logo=amazon-s3)](#)
+DevOps and Data  
+[![docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)](#) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?style=for-the-badge&logo=google-cloud)](#)
 
 Environment  
-[![nvim](https://img.shields.io/badge/-neovim-000?style=for-the-badge&logo=neovim)](#) [![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)](#)
+[![nvim](https://img.shields.io/badge/-neovim-000?style=for-the-badge&logo=neovim)](#) [![VS Code](https://img.shields.io/badge/-VS_Code-000?style=for-the-badge&logo=visual-studio-code)](#) [![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)](#)
 
 ## Get In Touch
 [![Github](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/crespire) [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/) [![Email](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=gmail&logoColor=azure&color=EA4335)](mailto:hello@crespire.dev)
