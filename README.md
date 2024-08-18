@@ -3,6 +3,8 @@
 
 I'm a full stack Ruby on Rails developer based in the GTA in Ontario, Canada. Nice to meet you! [Looking for a resume? Find it here!](https://crespire.dev/resume) You can also visit my [portfolio page](https://crespire.dev/).
 
+I also co-host [Toronto Ruby](https://toronto-ruby.com/), and we'd love to see you!
+
 Outside of development, I am very interested in my [&#128021; dog](https://www.instagram.com/heyojalapeno/), golf and &#127926; music.
 
 <!--
